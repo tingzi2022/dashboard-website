@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Developers00",
+    "links": [
+      {
+        "text": "Docs00",
+        "url": "https://www.google.com/"
+      },
+      {
+        "text": "Website",
+        "url": "https://www.baidu.com/"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/Sweet995142",
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/xxx",
+      },
+      {
+        "text": "Blog",
+        "url": "https://mirror.xyz/xxx",
+      }
+    ]
+  }
+]
